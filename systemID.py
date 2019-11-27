@@ -1,6 +1,7 @@
 import json
 import numpy as np
-from control import *
+from .dependencies.control import *
+#from control import *
 from scipy.optimize import *
 # sample_complex=[np.pi+np.pi*1j]*10
 # sample_f=np.linspace(0.01,10,10).tolist()
