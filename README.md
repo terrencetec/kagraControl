@@ -1,4 +1,7 @@
 # kagraControl
+# ! package not ready.
 KAGRA control stuff
-TODO:
-1: Resolve dependencies
+
+
+## 1) System Identification
+## 2) Controller Synthesis
