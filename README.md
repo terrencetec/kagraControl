@@ -1,6 +1,7 @@
 # Standards
 Python coding style: PEP 8 https://www.python.org/dev/peps/pep-0008/
-
+Python packaging guide: https://packaging.python.org/tutorials/packaging-projects/
+                        https://python-packaging.readthedocs.io/en/latest/index.html
 # kagraControl
 # ! package not ready.
 KAGRA control stuff
