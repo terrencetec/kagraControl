@@ -1,4 +1,5 @@
 # Note:
+2020/06/12: Moved to terrence/kontrol
 2020/5/1: We probably want to redo the whole thing from scratch so to follow the standard python package format.
 
 # Standards
